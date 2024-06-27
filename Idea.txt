@@ -1,0 +1,7 @@
+StudypartnerScreen:
+
+First : hi name! side: calming icon
+Tip of the day. idea icon.
+second: how are you feeling toady? lets talk about it.
+third : My Tasks
+Fourth : Focus Session
