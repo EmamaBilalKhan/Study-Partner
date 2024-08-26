@@ -18,5 +18,5 @@ It achieves its purpose through features like:
 
 Check Out the Figma file for the UI design : [LINK](https://www.figma.com/design/T1NtVV7XDvun6a77wjkWJu/Study-Partner-UI?t=vKyflbJR1YOGu5tM-1)
 
-Note: While running the app with web, the focus screen does not unmount without error as app state does not work with web. The issue does not persist while ruuning on emulator.
+Note: While running the app with web, the focus screen does not unmount without error as app state does not work with web. The issue does not persist while running on emulator.
 
